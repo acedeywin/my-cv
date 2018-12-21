@@ -47,7 +47,7 @@ bachDegree.textContent = 'Bachelor of Science in Psychology';
 let olevelCert = document.getElementById('olevel');
 olevelCert.textContent = 'O’level (WASSC), SLC&T';
 
-let skills = ['Skills','Microsoft Office Suit','Content Management System','ODK Tools | KOBO Tools','HTML5 | CSS3 | JavaScript','Google Cloud Platform','LAN Networking','PHP | Python | MATLAB | Octave'];
+let skills = ['Skills','Microsoft Office Suit','Content Management System','ODK Tools | KOBO Tools','HTML5 | CSS3 | JavaScript','Google Cloud Platform','CorelDraw | PhotoShop Lightroom | LogoDesign Shop','PHP | Python | MATLAB | Octave'];
 
 let skill = document.getElementById('skill');
 skill.textContent = skills[0];
