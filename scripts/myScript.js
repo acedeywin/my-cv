@@ -2,7 +2,7 @@ let myName = document.getElementById('my-name');
 myName.textContent = 'Okpalaononuju, Stephen Ifeamarame';
 
 let jobTitle = document.getElementById('job-title');
-jobTitle.textContent = 'Research Assistant/Tech Savvy';
+jobTitle.textContent = 'Research Assistant/Software Developer';
 
 let myLocation = document.getElementById('my-location');
 myLocation.textContent = 'Kano, Nigieria';
