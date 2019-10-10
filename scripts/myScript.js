@@ -29,7 +29,7 @@ if(thirdSchool = document.getElementById('third-school')){
         
 let schoolDate1, schoolDate2, schoolDate3;
 if(schoolDate1 = document.getElementById('school-date1')){
-    schoolDate1.textContent = 'Feb 2018 - May 2019';
+    schoolDate1.textContent = 'Feb 2018 - Sep 2019';
 }
 if(schoolDate2 = document.getElementById('school-date2')){
     schoolDate2.textContent = 'Oct 2010 - Sep 2014';
