@@ -47,7 +47,7 @@ bachDegree.textContent = 'Bachelor of Science in Psychology';
 let olevelCert = document.getElementById('olevel');
 olevelCert.textContent = 'O’level (WASSC), SLC&T';
 
-let skills = ['Technology Skills','HTML5 | CSS3','JavaScript | JQuery','Angular | React','NodeJS','Python | Php','Google Cloud Platform | PostgreSQL | MongoDB','Git | Heroku','Swagger | TravisCI','Mocha | Jasmine','Unit Test | TDD','CorelDraw | Adobe XD | LogoDesign Shop','Wordpress | Wix','Microsoft Office Suit','ODK Tools | KOBO Tools'];
+let skills = ['Technology Skills','HTML5 | CSS3','JavaScript | JQuery','Angular | React | SCSS','NodeJS','Python | Php','Google Cloud Platform | PostgreSQL | MongoDB','Git | Heroku','Webpack | Swagger | TravisCI','Mocha | Jasmine','Unit Test | TDD','CorelDraw | Adobe XD | LogoDesign Shop','Wordpress | Wix','Microsoft Office Suit','ODK Tools | KOBO Tools'];
 
 let skillList = ['non','Frontend','Backend','Database','DevOps','Test Technique & Framework','Design','Content Management System','Others'];
 
