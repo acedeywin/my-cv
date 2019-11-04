@@ -65,7 +65,7 @@ let skill2 = document.getElementById('skill2');
 skill2.textContent = skills[2];
 
 let skill3 = document.getElementById('skill3');
-skill2.textContent = skills[3];
+skill3.textContent = skills[3];
 
 //list 2
 let skillList2 = document.getElementById('skill-list2');
