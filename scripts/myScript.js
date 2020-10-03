@@ -55,13 +55,13 @@ let bachDegree = document.getElementById("bachelor");
 bachDegree.textContent = "Bachelor of Science in Psychology";
 
 let olevelCert = document.getElementById("olevel");
-olevelCert.textContent = "O’level (WASSC), SLC&T";
+olevelCert.textContent = "West Africa Secondary School Certification Examination";
 
 let skills = [
   "Technology Skills",
   "HTML5 | CSS3",
   "JavaScript | JQuery",
-  "Angular | React | SCSS",
+  "Angular | React | SASS | LESS",
   "NodeJS",
   "Python | Php",
   "Google Cloud Platform | PostgreSQL | MongoDB",
@@ -91,8 +91,8 @@ let skill = document.getElementById("skill");
 skill.textContent = skills[0];
 
 //list 1
-let skillList1 = document.getElementById("skill-list1");
-skillList1.textContent = skillList[1];
+// let skillList1 = document.getElementById("skill-list1");
+// skillList1.textContent = skillList[1];
 
 let skill1 = document.getElementById("skill1");
 skill1.textContent = skills[1];
@@ -104,8 +104,8 @@ let skill3 = document.getElementById("skill3");
 skill3.textContent = skills[3];
 
 //list 2
-let skillList2 = document.getElementById("skill-list2");
-skillList2.textContent = skillList[2];
+// let skillList2 = document.getElementById("skill-list2");
+// skillList2.textContent = skillList[2];
 
 let skill4 = document.getElementById("skill4");
 skill4.textContent = skills[4];
@@ -114,15 +114,15 @@ let skill5 = document.getElementById("skill5");
 skill5.textContent = skills[5];
 
 //list 3
-let skillList3 = document.getElementById("skill-list3");
-skillList3.textContent = skillList[3];
+// let skillList3 = document.getElementById("skill-list3");
+// skillList3.textContent = skillList[3];
 
 let skill6 = document.getElementById("skill6");
 skill6.textContent = skills[6];
 
 //list 4
-let skillList4 = document.getElementById("skill-list4");
-skillList4.textContent = skillList[4];
+// let skillList4 = document.getElementById("skill-list4");
+// skillList4.textContent = skillList[4];
 
 let skill7 = document.getElementById("skill7");
 skill7.textContent = skills[7];
@@ -131,8 +131,8 @@ let skill8 = document.getElementById("skill8");
 skill8.textContent = skills[8];
 
 //list 5
-let skillList5 = document.getElementById("skill-list5");
-skillList5.textContent = skillList[5];
+// let skillList5 = document.getElementById("skill-list5");
+// skillList5.textContent = skillList[5];
 
 let skill9 = document.getElementById("skill9");
 skill9.textContent = skills[9];
@@ -141,22 +141,22 @@ let skill10 = document.getElementById("skill10");
 skill10.textContent = skills[10];
 
 //list 6
-let skillList6 = document.getElementById("skill-list6");
-skillList6.textContent = skillList[6];
+// let skillList6 = document.getElementById("skill-list6");
+// skillList6.textContent = skillList[6];
 
 let skill11 = document.getElementById("skill11");
 skill11.textContent = skills[11];
 
 //list 7
-let skillList7 = document.getElementById("skill-list7");
-skillList7.textContent = skillList[7];
+// let skillList7 = document.getElementById("skill-list7");
+// skillList7.textContent = skillList[7];
 
 let skill12 = document.getElementById("skill12");
 skill12.textContent = skills[12];
 
 //list 8
-let skillList8 = document.getElementById("skill-list8");
-skillList8.textContent = skillList[8];
+// let skillList8 = document.getElementById("skill-list8");
+// skillList8.textContent = skillList[8];
 
 let skill13 = document.getElementById("skill13");
 skill13.textContent = skills[13];
