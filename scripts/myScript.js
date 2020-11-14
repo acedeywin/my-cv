@@ -2,7 +2,7 @@ let myName = document.getElementById("my-name");
 myName.textContent = "Okpalaononuju, Stephen Ifeamarame";
 
 let jobTitle = document.getElementById("job-title");
-jobTitle.textContent = "Designer | Developer | Behavioural Research";
+jobTitle.textContent = "Personal Website";
 
 let myLocation = document.getElementById("my-location");
 myLocation.textContent = "Kano, Nigieria";
@@ -33,7 +33,7 @@ if ((thirdSchool = document.getElementById("third-school"))) {
 
 let fullStackDate, schoolDate1, schoolDate2, schoolDate3;
 if ((fullStackDate = document.getElementById("fullstack-date"))) {
-  fullStackDate.textContent = "Sep 2020 - ";
+  fullStackDate.textContent = "Sep 2020 - Nov 2020";
 }
 if ((schoolDate1 = document.getElementById("school-date1"))) {
   schoolDate1.textContent = "Feb 2018 - Sep 2019";
@@ -55,7 +55,8 @@ let bachDegree = document.getElementById("bachelor");
 bachDegree.textContent = "Bachelor of Science in Psychology";
 
 let olevelCert = document.getElementById("olevel");
-olevelCert.textContent = "West Africa Secondary School Certification Examination";
+olevelCert.textContent =
+  "West Africa Secondary School Certification Examination";
 
 let skills = [
   "Technology Skills",
@@ -64,7 +65,7 @@ let skills = [
   "Angular | React | SASS | LESS",
   "NodeJS",
   "Python | Php",
-  "Google Cloud Platform | PostgreSQL | MongoDB",
+  "PostgreSQL | MongoDB",
   "Git | Heroku",
   "Webpack | Swagger | TravisCI",
   "Mocha | Jasmine",
